@@ -15,7 +15,7 @@ const Login = () => {
 
   return (
     <div className="container">
-      <h1>Magic Auth + Twitch</h1>
+      <h1>Magic + Twitch</h1>
       <button onClick={handleSocialLogin}>
         <FaTwitch size={"2.5rem"} />
         Log in with Twitch
